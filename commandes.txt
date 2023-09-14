@@ -1,0 +1,3 @@
+run projet: yarn dev
+build le projet: yarn build
+node modules not here: yarn install
