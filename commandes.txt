@@ -1,3 +1,11 @@
 run projet: yarn dev
 build le projet: yarn build
 node modules not here: yarn install
+
+ssh
+//ssh-keygen -t rsa
+copy rsa public key in git
+git clone (ssh url)
+git add .
+git commit -m ""
+git push 
